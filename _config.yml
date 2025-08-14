@@ -3,14 +3,14 @@
 # If you change something here, please rerun `jekyll serve`
 
 # Site settings
-title: SURGEON TUX
-description: sudo rm -rf /* and we're done.
-baseurl: "/surgeon-tux" # put subpath of your site, e.g. /blog
-url: "http://lahiru.site" # put the base hostname & protocol for your site
+title: VeebS - Portfolio
+description: sudo rm -rf /* and we're done. \n\n 
+baseurl: "/portfolio"
+url: "https://veebs1.github.io"
 
-email: lpsandaruwan@gmail.com
-twitter_username: lpsandaruwan
-github_username:  lpsandaruwan
+email: veebs04@gmail.com
+disscord_username: veebs333
+github_username:  VeebS1
 
 paginate: 6
 
