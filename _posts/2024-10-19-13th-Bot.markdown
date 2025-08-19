@@ -32,8 +32,11 @@ The bot is fully integrated with **MongoDB** for persistence and data backup. Th
 - **Leave of Absence (LOA) Submissions**  
   Role-based LOA submissions requiring admin authorization, with automated role handling.
 
-![Screenshot 1]({{ '/images/13th/img3.png' | relative_url }})
-![Screenshot 1]({{ '/images/13th/img2.png' | relative_url }})
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="{{ '/images/13th/img3.png' | relative_url }}" alt="Screenshot 3" width="350">
+  <img src="{{ '/images/13th/img2.png' | relative_url }}" alt="Screenshot 2" width="500">
+</div>
+
 
 <br>
 
@@ -49,17 +52,17 @@ The bot is fully integrated with **MongoDB** for persistence and data backup. Th
   Used by leadership within the community to keep track and log qualifcations completed by members.  
 
 <p align="center">
-  <img src="/images/13th/img4.png" alt="Screenshot 4" width="400"><br>
+  <img src="{{ '/images/13th/img4.png' | relative_url }}" alt="Screenshot 4" width="400">
   <em>Staff Tickets</em>
 </p>
 
 <p align="center">
-  <img src="/images/13th/img5.png" alt="Screenshot 5" width="400"><br>
+  <img src="{{ '/images/13th/img5.png' | relative_url }}" alt="Screenshot 5" width="400">
   <em>Qualification Completion</em>
 </p>
 
 <p align="center">
-  <img src="/images/13th/img6.png" alt="Screenshot 6" width="400"><br>
+  <img src="{{ '/images/13th/img6.png' | relative_url }}" alt="Screenshot 6" width="400">
   <em>Error Tracking and Logging</em>
 </p>
 
