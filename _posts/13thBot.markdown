@@ -19,6 +19,15 @@ The bot is fully integrated with **MongoDB** for persistence and data backup. Th
 
 <br>
 
+<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap: 12px; justify-items: center; margin: 20px 0;">
+  <img src="/images/13th/img1.png" alt="Screenshot 1" width="300">
+  <img src="/images/13th/img2.png" alt="Screenshot 2" width="300">
+  <img src="/images/13th/img3.png" alt="Screenshot 3" width="300">
+  <img src="/images/13th/img4.png" alt="Screenshot 4" width="300">
+  <img src="/images/13th/img5.png" alt="Screenshot 5" width="300">
+  <img src="/images/13th/img6.png" alt="Screenshot 6" width="300">
+</div>
+
 <h2>Core Features</h2>
 
 <h3>Role & Member Management</h3>
