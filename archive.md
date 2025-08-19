@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Archive"
-permalink : "/archive/"
-category: "archive"
+title:  "Projects"
+permalink : "/projects/"
+category: "projects"
 ---
 
 <div>
