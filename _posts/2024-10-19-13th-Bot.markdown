@@ -34,7 +34,7 @@ The bot is fully integrated with **MongoDB** for persistence and data backup. Th
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <img src="{{ '/images/13th/img3.png' | relative_url }}" alt="Screenshot 3" width="350">
-  <img src="{{ '/images/13th/img2.png' | relative_url }}" alt="Screenshot 2" width="350">
+  <img src="{{ '/images/13th/img2.png' | relative_url }}" alt="Screenshot 2" width="700">
 </div>
 
 
@@ -76,6 +76,11 @@ A comprehensive **profile system** integrated with MongoDB to track individual m
 - Transfers, join date, qualifications, instructor qualifications  
 - Interview question responses from enlistment  
 - Current rank and progression  
+
+<p align="center">
+  <img src="{{ '/images/13th/img7.png' | relative_url }}" alt="Screenshot 7" width="400">
+  <em>Profile System</em>
+</p>
 
 <br>
 
