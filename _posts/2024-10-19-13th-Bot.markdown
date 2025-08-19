@@ -2,7 +2,7 @@
 layout: post
 title:  "Arma 3 Administrative Bot"
 date:   2024-10-19
-categories: ["projects"]
+categories: ["archive"]
 author: "VeebS"
 ---
 
