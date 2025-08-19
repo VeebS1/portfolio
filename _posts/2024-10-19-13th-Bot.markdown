@@ -19,15 +19,6 @@ The bot is fully integrated with **MongoDB** for persistence and data backup. Th
 
 <br>
 
-<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap: 12px; justify-items: center; margin: 20px 0;">
-  <img src="/images/13th/img1.png" alt="Screenshot 1" width="300">
-  <img src="/images/13th/img2.png" alt="Screenshot 2" width="300">
-  <img src="/images/13th/img3.png" alt="Screenshot 3" width="300">
-  <img src="/images/13th/img4.png" alt="Screenshot 4" width="300">
-  <img src="/images/13th/img5.png" alt="Screenshot 5" width="300">
-  <img src="/images/13th/img6.png" alt="Screenshot 6" width="300">
-</div>
-
 <h2>Core Features</h2>
 
 <h3>Role & Member Management</h3>
@@ -41,6 +32,11 @@ The bot is fully integrated with **MongoDB** for persistence and data backup. Th
 - **Leave of Absence (LOA) Submissions**  
   Role-based LOA submissions requiring admin authorization, with automated role handling.
 
+<div style="display:flex; justify-content:center; gap:20px; margin:20px 0;">
+  <img src="/images/13th/img3.png" alt="Screenshot 2" width="390">
+  <img src="/images/13th/img2.png" alt="Screenshot 3" width="600">
+</div>
+
 <br>
 
 <h3>Staff Tools</h3>
@@ -51,6 +47,23 @@ The bot is fully integrated with **MongoDB** for persistence and data backup. Th
   Embed-based tracker for probationary members, fully automated with role management.  
 - **Error Logging System**  
   Any bot errors are automatically logged into a tickets channel for monitoring and debugging.  
+- **Qualifcation Completion Tracker**  
+  Used by leadership within the community to keep track and log qualifcations completed by members.  
+
+<p align="center">
+  <img src="/images/13th/img4.png" alt="Screenshot 4" width="400"><br>
+  <em>Staff Tickets</em>
+</p>
+
+<p align="center">
+  <img src="/images/13th/img5.png" alt="Screenshot 5" width="400"><br>
+  <em>Qualification Completion</em>
+</p>
+
+<p align="center">
+  <img src="/images/13th/img6.png" alt="Screenshot 6" width="400"><br>
+  <em>Error Tracking and Logging</em>
+</p>
 
 <br>
 
@@ -75,6 +88,11 @@ A comprehensive **profile system** integrated with MongoDB to track individual m
   After successful interviews, BCT sessions are automatically scheduled.  
 - **Join Messages & Ready Command**  
   New members receive an automatic join message with a “Ready” button, notifying admins they are prepared for their interview.  
+
+<p align="center">
+  <img src="/images/13th/img1.png" alt="Screenshot 1" width="400"><br>
+  <em>Attendance Marker</em>
+</p>
 
 <br>
 
