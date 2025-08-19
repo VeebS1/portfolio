@@ -34,7 +34,7 @@ The bot is fully integrated with **MongoDB** for persistence and data backup. Th
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <img src="{{ '/images/13th/img3.png' | relative_url }}" alt="Screenshot 3" width="350">
-  <img src="{{ '/images/13th/img2.png' | relative_url }}" alt="Screenshot 2" width="500">
+  <img src="{{ '/images/13th/img2.png' | relative_url }}" alt="Screenshot 2" width="350">
 </div>
 
 
