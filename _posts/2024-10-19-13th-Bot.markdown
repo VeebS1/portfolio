@@ -32,10 +32,8 @@ The bot is fully integrated with **MongoDB** for persistence and data backup. Th
 - **Leave of Absence (LOA) Submissions**  
   Role-based LOA submissions requiring admin authorization, with automated role handling.
 
-<div style="display:flex; justify-content:center; gap:20px; margin:20px 0;">
-  <img src="/images/13th/img3.png" alt="Screenshot 2" width="390">
-  <img src="/images/13th/img2.png" alt="Screenshot 3" width="600">
-</div>
+![Screenshot 1]({{ '/images/13th/img3.png' | relative_url }})
+![Screenshot 1]({{ '/images/13th/img2.png' | relative_url }})
 
 <br>
 
