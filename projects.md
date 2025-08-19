@@ -2,7 +2,7 @@
 layout: page
 title:  "Projects"
 permalink : "/projects/"
-category: "projects"
+category: "archive"
 ---
 
 <div>
